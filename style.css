@@ -1,0 +1,26 @@
+body, ul, li, h3, p{
+	margin:0px;
+	padding:0;
+}
+
+a	{
+	text-decoration:none;
+	color: gray;
+}
+
+li {
+	list-style-type:none;
+}
+
+img {
+	vertical-align:bottom;
+}
+
+/*
+	1. 배경색 f4f4f4를 설정하고
+	큰 향수 이미지를 배경 이미지로 붙여주세요.
+
+    2. Sidebar 레이아웃만 잡아주세요.
+	너비값 300px
+
+*/
